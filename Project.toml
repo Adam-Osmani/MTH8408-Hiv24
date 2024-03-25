@@ -1,10 +1,13 @@
 [deps]
 CaNNOLeS = "5a1c9e79-9c58-5ec0-afc4-3298fdea2875"
 Gadfly = "c91e804a-d5a3-530f-b6f0-dfbca275c004"
+Gridap = "56d4f2e9-7ea1-5844-9cf6-b9c51ca7ce8e"
 JSOSolvers = "10dff2fc-5484-5881-a0e0-c90441020f8a"
 Krylov = "ba0b0d4f-ebba-5204-a429-3ac8c609bfb7"
 NLPModelsIpopt = "f4238b75-b362-5c4c-b852-0801c9a21d71"
 NLPModelsJuMP = "792afdf1-32c1-5681-94e0-d7bf7a5df49e"
 NLSProblems = "7cde8186-f29c-533a-9367-b4054c592979"
+OptimizationProblems = "5049e819-d29b-5fba-b941-0eee7e64c1c6"
+PDENLPModels = "80da258d-c172-4540-9646-64f172512520"
 Plots = "91a5bcdd-55d7-5caf-9e0b-520d859cae80"
 SolverBenchmark = "581a75fa-a23a-52d0-a590-d6201de2218a"
